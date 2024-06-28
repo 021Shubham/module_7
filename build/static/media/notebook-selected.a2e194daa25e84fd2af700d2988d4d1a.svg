@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 32 32">
+  <g id="Group_14594" data-name="Group 14594" transform="translate(-2 -2)">
+    <rect id="button_10_12_" data-name="button [10 12]" width="32" height="32" rx="4" transform="translate(2 2)" fill="#ff9200"/>
+    <g id="notebook--reference" transform="translate(7.36 7.36)">
+      <path id="Path_11790" data-name="Path 11790" d="M3.375,20v1.375H5.84L2,25.215l.972.972,3.84-3.84v2.465H8.188V20Z" transform="translate(-0.625 -6.25)" fill="#fff"/>
+      <rect id="Rectangle_5209" data-name="Rectangle 5209" width="4.812" height="1.375" transform="translate(13.063 6.875)" fill="#fff"/>
+      <rect id="Rectangle_5210" data-name="Rectangle 5210" width="4.812" height="1.375" transform="translate(13.063 10.313)" fill="#fff"/>
+      <rect id="Rectangle_5211" data-name="Rectangle 5211" width="4.812" height="1.375" transform="translate(13.063 13.75)" fill="#fff"/>
+      <path id="Path_11791" data-name="Path 11791" d="M19.875,5H3.375A1.376,1.376,0,0,0,2,6.375V13.25H3.375V6.375h7.563v13.75h8.938A1.376,1.376,0,0,0,21.25,18.75V6.375A1.376,1.376,0,0,0,19.875,5ZM12.313,18.75V6.375h7.563V18.75Z" transform="translate(-0.625 -1.563)" fill="#fff"/>
+      <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" width="22" height="22" fill="none"/>
+    </g>
+  </g>
+</svg>

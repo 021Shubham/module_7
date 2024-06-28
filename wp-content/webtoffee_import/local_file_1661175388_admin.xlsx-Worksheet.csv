@@ -1,0 +1,17 @@
+user_id,user_fullname,user_designation,user_email,password,user_mobile,user_type,user_state_id,,roles
+23,Chandra,Assisting,cpcbao@kl.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,8885378072,3,0,,administrator
+22,Murali,Incharge,cpcbdo@kl.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,8592010315,2,0,,administrator
+5,chandrakanth,CPCB MS,cpcbms@kl.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,9618106011,5,0,,administrator
+33,Karnataka DO,KS(DO),do@ks.com,$2y$10$KyZA1QL3Q.jCZoA91aq/IuT2bCDAy.vhSoeSpj6MxGYPKGs/GMaI2,9618106011,9,18,,administrator
+36,DO Kerala,Do,dokerala@kl.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,7012227850,9,17,,administrator
+38,Kerala AO,AO,kerala.ao@kl.com,$2y$10$ftKDEptpnRbrJia6j93Ogu6ckJvA3OafNb89DSK0..rOZTaWScAXe,9971533374,10,17,,administrator
+25,Krishna,DO,krishna@knowledgelens.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,8765432456,9,9,,administrator
+31,maharastra_ms,Maharastra MS,maharastrams@gmail.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,7787839684,12,21,,administrator
+32,Karnataka MS,MS(KS),ms@ks.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,9618106011,12,18,,administrator
+30,Priti Shankar ,AO,pritiao@gmail.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,7978157720,3,0,,administrator
+35,PRITI DO,DO,pritido@gmail.com,$2y$10$YWlOSmLqpDtz0nGXg4LQle4.koH8NskJ4m0NtCfBPM1qDkCzLz2a.,7978157720,2,0,,administrator
+34,spcb ao 1,spcb ao1,spcba01@gmail.com,$2y$10$LXQgLcVD3yLsWfIfMYudvO4RTxETPXhKIOtaptVFX3cxxNvC080IC,9618106012,10,18,,administrator
+26,SPCB Assisting,Assisting,spcbao@kl.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,9591257376,10,18,,administrator
+27,Test DO,DO,spcbdo@kl.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,8592010315,9,18,,administrator
+24,spcb_ms,SPCB MS,spcbms@kl.com,$2y$10$vRY3/xVVRVixcTKJmVKZcud/wGQc4GaGJ9WazRVldZTT8Hx.tyBrW,8592010315,12,18,,administrator
+37,Test Name,Test D,test@test.com,$2y$10$D7Qqg4NNobvUB5DUmsu/Yuc.gpyTr9YdhkhLeIkMBwDzO/0P1qfS6,9971533374,3,0,,administrator

@@ -1,0 +1,6 @@
+2024-05-09T06:23:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\epr-lms\wp-content\plugins\woocommerce\src\Admin\Features\TransientNotices.php on line 6
+
+2024-05-09T06:24:33+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\epr-lms\wp-admin\includes\class-wp-filesystem-direct.php on line 369
+
+2024-05-09T12:37:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\epr-lms\wp-admin\includes\class-wp-filesystem-direct.php on line 173
+

@@ -1,0 +1,4 @@
+2024-06-24T08:33:17+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\epr-lms\wp-includes\functions.php on line 4540
+
+2024-06-24T08:43:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded in C:\xampp\htdocs\epr-lms\wp-admin\includes\class-wp-filesystem-direct.php on line 66
+

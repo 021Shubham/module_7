@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_42465" data-name="Group 42465" transform="translate(-396 -192)">
+    <g id="document_5_" data-name="document (5)" transform="translate(396 192)">
+      <path id="Path_11803" data-name="Path 11803" d="M25.7,9.3l-7-7A.908.908,0,0,0,18,2H8A2.006,2.006,0,0,0,6,4V28a2.006,2.006,0,0,0,2,2H24a2.006,2.006,0,0,0,2-2V10A.908.908,0,0,0,25.7,9.3ZM18,4.4,23.6,10H18ZM24,28H8V4h8v6a2.006,2.006,0,0,0,2,2h6Z" transform="translate(0 0)" fill="#06701f"/>
+      <rect id="Rectangle_18601" data-name="Rectangle 18601" width="12" height="2" transform="translate(10 22)" fill="#06701f"/>
+      <rect id="Rectangle_18602" data-name="Rectangle 18602" width="12" height="2" transform="translate(10 16)" fill="#06701f"/>
+      <rect id="Rectangle_18603" data-name="Rectangle 18603" width="32" height="32" fill="none"/>
+    </g>
+  </g>
+</svg>
